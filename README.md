@@ -1,4 +1,4 @@
-#<img width="534" height="534" alt="image" src="https://github.com/user-attachments/assets/3cf40d2e-4315-47a9-892b-8cda68f6cf98" />
+
 Marcus Antônio Custodio
 
 **`Desenvolvedora FullStack`**
